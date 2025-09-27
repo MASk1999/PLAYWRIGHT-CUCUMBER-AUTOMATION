@@ -1,0 +1,27 @@
+{
+  "name": "playwright-cucumber-automation",
+  "version": "1.0.0",
+  "description": "This repo is a sample automation testing setup using playwright and cucumber frameworks.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MASk1999/PLAYWRIGHT-CUCUMBER-AUTOMATION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MASk1999/PLAYWRIGHT-CUCUMBER-AUTOMATION/issues"
+  },
+  "homepage": "https://github.com/MASk1999/PLAYWRIGHT-CUCUMBER-AUTOMATION#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2",
+    "playwright-bdd": "^8.4.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2"
+  }
+}
