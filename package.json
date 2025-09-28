@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This repo is a sample automation testing setup using playwright and cucumber frameworks.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "cucumber-js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MASk1999/PLAYWRIGHT-CUCUMBER-AUTOMATION.git"
